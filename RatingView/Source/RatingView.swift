@@ -72,20 +72,7 @@ open class RatingView: UIView {
             
         }
     }
-    
-//    /**
-//     Minimum rating.
-//     */
-//    @IBInspectable open var minRating: Int  = 1 {
-//        didSet {
-//            // Update current rating if needed
-//            if rating < Float(minRating) {
-//                rating = Float(minRating)
-//
-//            }
-//        }
-//    }
-    
+        
     /**
      Minimum rating.
      */
