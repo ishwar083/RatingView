@@ -17,6 +17,7 @@
 		5EBB4AFE224F8EB10018B8D7 /* RatingViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBB4AFD224F8EB10018B8D7 /* RatingViewUITests.swift */; };
 		5EBB4B0C224F90CB0018B8D7 /* rating.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5EBB4B0B224F90CB0018B8D7 /* rating.gif */; };
 		5EBB4B0F224F915B0018B8D7 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBB4B0E224F915B0018B8D7 /* RatingView.swift */; };
+		5EEA1C4223F3C12000B2E63A /* ratingVIew.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5EEA1C4123F3C12000B2E63A /* ratingVIew.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5EBB4AFF224F8EB10018B8D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EBB4B0B224F90CB0018B8D7 /* rating.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rating.gif; sourceTree = "<group>"; };
 		5EBB4B0E224F915B0018B8D7 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		5EEA1C4123F3C12000B2E63A /* ratingVIew.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ratingVIew.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 			children = (
 				5EBB4B0B224F90CB0018B8D7 /* rating.gif */,
 				5EBB4B0E224F915B0018B8D7 /* RatingView.swift */,
+				5EEA1C4123F3C12000B2E63A /* ratingVIew.gif */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			files = (
 				5EBB4AE8224F8EB10018B8D7 /* LaunchScreen.storyboard in Resources */,
 				5EBB4AE5224F8EB10018B8D7 /* Assets.xcassets in Resources */,
+				5EEA1C4223F3C12000B2E63A /* ratingVIew.gif in Resources */,
 				5EBB4AE0224F8EAF0018B8D7 /* Main.storyboard in Resources */,
 				5EBB4B0C224F90CB0018B8D7 /* rating.gif in Resources */,
 			);
